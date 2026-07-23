@@ -1,9 +1,5 @@
 # README.md
-# 🚗 SAMP / CRMP Mobile Porting Project
-
----
-
-devloper gta samp & crmp 
+# 🚗 SAMP / CRMP Mobile DEVLOPER
 
 ---
 
@@ -16,3 +12,4 @@ devloper gta samp & crmp
 | **C++** | Writing hooks for mobile versions, optimizing object rendering pipelines |
 | **Pawn** | Adapting server-side SAMP/CRMP scripts |
 
+((S))
